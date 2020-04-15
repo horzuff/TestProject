@@ -1,0 +1,12 @@
+# Default ignored files
+/workspace.xml
+.idea/
+.vscode/
+ironpython/
+venv/
+RanorexReport.*
+*.rxlog
+*.rxlog.data
+log.html
+output.xml
+report.html
